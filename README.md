@@ -10,7 +10,7 @@ pyEarn是一个基于[python-telegram-bot](https://github.com/python-telegram-bo
 收款基于[iData*River](https://www.idatariver.com/)，最低支付金额1usdt，支持加密货币、微信、支付宝
 
 ## 功能列表
-
+基础版已上传
 - [x] 用户注册
 - [x] 检测用户屏蔽机器人
 - [x] 用户购买会员，续费会员，到期提醒
@@ -25,3 +25,6 @@ pyEarn是一个基于[python-telegram-bot](https://github.com/python-telegram-bo
 - [x] 管理员面板：机器人设置、用户管理、账单管理、推广管理
 
 ## 安装
+将5个bot开头的压缩文件解压（点击bot.7z.001同时解压五个）
+设置 _internal/config.yaml 中的变量
+运行bot.exe
