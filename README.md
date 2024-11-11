@@ -26,5 +26,7 @@ pyEarn是一个基于[python-telegram-bot](https://github.com/python-telegram-bo
 
 ## 安装
 将5个bot开头的压缩文件解压（点击bot.7z.001同时解压五个）
+
 设置 _internal/config.yaml 中的变量
+
 运行bot.exe
